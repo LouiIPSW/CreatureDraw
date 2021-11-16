@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/79132875/142018943-ba4e57a1-2220-4fd0-beef-cd97a0eea8e4.png)
+
 # CreatureDraw
 Simple Yet Powerful Painting App Made Using Kotlin, Comment On Images, Paint!, And More.
 
