@@ -1,20 +1,20 @@
 ![image](https://user-images.githubusercontent.com/79132875/142018943-ba4e57a1-2220-4fd0-beef-cd97a0eea8e4.png)
 
 # CreatureDraw
-Simple Yet Powerful Painting App Made Using Kotlin, Comment On Images, Paint!, And More.
+A simple drawing and Image manipulation app made with touch in mind, made with love by LouieTheCreature
 
-Draw Whatever You Want
+Draw whatever you want
 ------------------------------------------------------------
-With an Endless Number Of Colors And Sizes, Draw Whatever You Think Of
+With an endless number of colors and brush sizes, you can draw anything you can think of.
 
-Comment On Images
+Comment on Images
 ------------------------------------------------------------
-With The Powerful Wallpaper Panel You Can Choose An Image From Your Gallery, Shoot a Picture On The Spot, or Just Choose One Of The Built-in Images!
+With the wallpaper panel, You can chooce an image from your gallery, take a picture on the spot, or Just Choose one of the built-in images.
 
 Add Text
 ------------------------------------------------------------
-Wanna Make a meme? , Or Just Want To Clarify An Image?, The Text Panel Will Let You Do Just That!, With Even The Ability To Change Text Color
+Wanna make a meme?, or maybe just want to comment on an image, The text panel will let you do just that!, with even the ability to change text color.
 
 Privacy
 --------------------------------------------------
-CreatureDraw Can Use Your Camera, Gallary And Storage To Enable The Save and Custom Wallpaper Features, I Don't Collect Anything Provided To CreatureDraw As It's Completely Offline :D, If You Dont Think CreatureDraw Is Trustworthy Just Deny The Permissions and Most Of The Core Features Will Work Just Fine
+CreatureDraw can use your camera, gallary and storage to enable the save and custom wallpaper features, I don't collect anything provided to CreatureDraw as it's completely offline, If you don't think CreatureDraw is trustworthy, Just deny the permissions and most of CreatureDraw's features will work just fine.
