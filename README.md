@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/79132875/142018943-ba4e57a1-2220-4fd0-beef-cd97a0eea8e4.png)
+![image](https://user-images.githubusercontent.com/79132875/195382307-81d5f3b6-b467-4772-82f5-6e8c406018c7.png)
 
 # CreatureDraw
 A simple drawing and Image manipulation app made with touch in mind, made with love by LouieTheCreature
